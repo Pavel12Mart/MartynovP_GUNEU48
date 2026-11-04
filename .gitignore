@@ -135,3 +135,17 @@ crashlytics-build.properties
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+# Unity generated folders at any depth
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Ll]ogs/
+**/LOGS/
+**/[Uu]ser[Ss]ettings/
+**/[Bb]uild/
+**/[Bb]uilds/
+
+# IDE generated files
+**/.vs/
+*.csproj
+*.sln
