@@ -137,7 +137,7 @@ namespace Tanks
                     ""isPartOfComposite"": false
                 },
                 {
-                    ""name"": ""up"",
+                    ""name"": ""Up"",
                     ""id"": ""edde945b-700b-411e-9c1b-12862925c9a9"",
                     ""path"": ""<Keyboard>/w"",
                     ""interactions"": """",
@@ -148,7 +148,7 @@ namespace Tanks
                     ""isPartOfComposite"": true
                 },
                 {
-                    ""name"": ""down"",
+                    ""name"": ""Down"",
                     ""id"": ""0e7b3530-221a-4e90-ba0a-f712539343d2"",
                     ""path"": ""<Keyboard>/s"",
                     ""interactions"": """",
@@ -159,8 +159,8 @@ namespace Tanks
                     ""isPartOfComposite"": true
                 },
                 {
-                    ""name"": ""left"",
-                    ""id"": ""41bd9af8-f37b-4cd4-b389-b6e2c85f2213"",
+                    ""name"": ""Left"",
+                    ""id"": ""bc4ca8a5-7b8d-4fe0-b255-43c1c853cce7"",
                     ""path"": ""<Keyboard>/a"",
                     ""interactions"": """",
                     ""processors"": """",
@@ -170,8 +170,8 @@ namespace Tanks
                     ""isPartOfComposite"": true
                 },
                 {
-                    ""name"": ""right"",
-                    ""id"": ""c1d4711c-fea7-4808-a076-4a3589ac9b90"",
+                    ""name"": ""Right"",
+                    ""id"": ""0ba64cec-e0f8-4f1c-93fb-3e395e845f8a"",
                     ""path"": ""<Keyboard>/d"",
                     ""interactions"": """",
                     ""processors"": """",
