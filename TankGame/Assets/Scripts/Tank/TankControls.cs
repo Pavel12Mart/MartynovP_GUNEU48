@@ -220,7 +220,7 @@ namespace Tanks
                 {
                     ""name"": """",
                     ""id"": ""327a2406-4aa6-405b-b5ee-81d52c6480f0"",
-                    ""path"": ""<Keyboard>/e"",
+                    ""path"": ""<Mouse>/leftButton"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
